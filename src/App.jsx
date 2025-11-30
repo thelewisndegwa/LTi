@@ -32,7 +32,7 @@ function App() {
         onNavClick={scrollToSection}
       />
       <Hero onScrollToGallery={scrollToGallery} />
-      <StoryTimeline />
+    
       <Gallery />
       <Notes />
     </div>
