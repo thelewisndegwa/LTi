@@ -1,6 +1,6 @@
-# Lewis & Tiffany 💛
+# LT
 
-A beautiful, romantic single-page React site built with Vite + React, showcasing your love story together.
+A single-page React site built with Vite + React, showcasing your love story together.
 
 ## Features
 
