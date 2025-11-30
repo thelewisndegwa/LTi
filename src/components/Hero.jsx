@@ -18,7 +18,7 @@ function Hero({ onScrollToGallery }) {
         <div className="hero-overlay"></div>
       </div>
       <div className="hero-content">
-        <h1 className="hero-title">For Tiffany 💛</h1>
+        <h1 className="hero-title">For Tiffany 💜</h1>
         <p className="hero-subtitle">
           A little something special, just for you
         </p>

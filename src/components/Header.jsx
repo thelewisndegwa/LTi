@@ -11,7 +11,7 @@ function Header({ theme, onThemeToggle, onNavClick }) {
   return (
     <header className="header">
       <div className="header-content">
-        <div className="logo">L 💛 T</div>
+        <div className="logo">L ❤️ T</div>
         
         <button 
           className="menu-toggle"
