@@ -24,9 +24,9 @@ function Header({ theme, onThemeToggle, onNavClick }) {
         </button>
 
         <nav className={`nav ${isMenuOpen ? 'nav-open' : ''}`}>
-          <a href="#story" onClick={(e) => { e.preventDefault(); handleNavClick('story'); }}>
+          {/* <a href="#story" onClick={(e) => { e.preventDefault(); handleNavClick('story'); }}>
             Our Story
-          </a>
+          </a> */}
           <a href="#gallery" onClick={(e) => { e.preventDefault(); handleNavClick('gallery'); }}>
             Gallery
           </a>
